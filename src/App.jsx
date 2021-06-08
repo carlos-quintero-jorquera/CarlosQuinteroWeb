@@ -1,10 +1,10 @@
 import React from 'react';
-import NavBar from './components/NavBar/NavBar'
+import RouterApp from './router/routerApp'
 
 function App() {
   return (
     <div >
-      <NavBar/>
+      <RouterApp></RouterApp>
     </div>
   );
 }
